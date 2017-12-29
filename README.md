@@ -3,7 +3,7 @@ Um simples ferramenta para mostrar informações sobre o clima, usando custom el
 
 ## Instalação
 Primeiro, na pasta Server, rode `npm install`. Depois na pasta root do projeto rode `npm install` também.
-Na pasta Server, você precisa criar um `.env` com as suas keys do Google Maps e do DarkSky(https://darksky.net/dev), e na pasta root, você precisa criar também um `.env` de acordo como está no exemplo.
+Na pasta Server, você precisa criar um `.env` com as suas keys do Google Maps e do DarkSky(https://darksky.net/dev), e na pasta root, você precisa criar também de um `.env` de acordo como está no exemplo.
 Depois de todos esses preparativos, rode `npm start` na pasta Server, e na pasta root, `npm run watch`.
 
 ## Como usar
